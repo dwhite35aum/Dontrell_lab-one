@@ -12,4 +12,8 @@ This is a simple C++ console application created for Git Lab 1.
 Dontrell White
 Marshon Sellers
 
+
 ## Changes Made by Dontrell White: Added a feature greeting
+
+##Team Members
+- [Dontrell White] - Feature: student info display
