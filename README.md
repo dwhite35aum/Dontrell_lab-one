@@ -11,3 +11,5 @@ This is a simple C++ console application created for Git Lab 1.
 ## Team Members
 Dontrell White
 Marshon Sellers
+
+## Changes Made by Dontrell White: Added a feature greeting
